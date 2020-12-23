@@ -1,0 +1,9 @@
+rivate_cidr     = "172.31.16.0/22"
+vpc_net         = "172.31.0.0/18" # VPC cidr block
+vpn_bgp_asn     = "65000"
+zone            = "us-east-1a"
+preshared_key   = "< preshared key >"
+home_cidr       = "192.168.0.0/23"
+name_vpn        = "chavo-vpn"
+vpn_ip_address  = "< vpn public address >"
+amazon_side_asn = "65515"
